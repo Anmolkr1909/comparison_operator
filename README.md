@@ -1,1 +1,1 @@
-# comparison_operator
+# comparison_operator (mini_project)
